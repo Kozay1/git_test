@@ -4,3 +4,5 @@ This will create a conflict.
 Wonder what GitHub says now...
 
 Change from github
+
+Change from intelliJ
