@@ -1,5 +1,5 @@
 # git_test
 
-This is an awesome repo!
+This will create a conflict.
 
 Change from github
