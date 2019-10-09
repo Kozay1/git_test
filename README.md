@@ -1,5 +1,5 @@
 # git_test
 
-This is an awesome repo!
+Wonder what GitHub says now...
 
 Change from github
